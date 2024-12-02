@@ -1,0 +1,10 @@
+Kangaroo
+Giraffe
+Pangolin
+Buffalo
+Hognose
+Tiger
+Panda
+Zebra
+Mongoose
+Jerboa
